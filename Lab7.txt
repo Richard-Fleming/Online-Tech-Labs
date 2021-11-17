@@ -1,0 +1,9 @@
+Q1	T
+Q2	F
+Q3	T
+Q4	F
+Q5	A
+Q6	B
+Q7	D
+Q8	B
+Q9	B
