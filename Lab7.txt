@@ -7,3 +7,8 @@ Q6	B
 Q7	D
 Q8	B
 Q9	B
+Q10	The slow start period discovers the best throughput that the path supports, if it was linear, it would take too long
+Q12	C
+Q13	C
+Q14	B
+Q15	
