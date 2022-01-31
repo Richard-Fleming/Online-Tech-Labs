@@ -5,6 +5,7 @@
 #include "PacketManager.h" //for PacketManager class
 #include <vector> //for std::vector
 #include <shared_mutex> //for shared_mutex
+#include "PacketStructs.h"
 
 class Connection
 {

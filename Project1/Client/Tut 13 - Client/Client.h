@@ -13,6 +13,8 @@ public: //Public functions
 	void SendString(const std::string & str);
 	bool RequestFile(const std::string & fileName);
 	~Client();
+	std::string m_holder;
+	std::string m_identify;
 private: //Private functions
 	bool CloseConnection();
 	bool ProcessPacketType(const PacketType packetType);

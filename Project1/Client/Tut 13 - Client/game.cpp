@@ -50,6 +50,16 @@ void game::processEvents()
 		{
 			m_window.close();
 		}
+
+		if (sf::Event::KeyPressed == nextEvent.type)
+		{
+			if (nextEvent.key.code == sf::Keyboard::Left)
+			{
+				m_player.setPosition(m_player.getPosition().x - 3, m_player.getPosition().y);
+
+			}
+
+		}
 	}
 }
 
